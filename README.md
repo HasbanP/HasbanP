@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HasbanP
-- 👀 I’m interested in Data Engineering
+- 👀 I’m interested in Data Engineering, Data Aalyst
 - 🌱 I’m currently learning Machine Learning, Pyhton, KNIME, OSINT
 - 💞️ I’m looking to collaborate on Data Analyst Project
 - 📫 How to reach me muhammadhasban.pervez@stu.khas.edu.tr
